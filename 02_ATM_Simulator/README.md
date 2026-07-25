@@ -19,7 +19,7 @@
 ## Compile
 
 ```bash
-javac ATM.java
+java ATM.java
 ```
 
 ## Run

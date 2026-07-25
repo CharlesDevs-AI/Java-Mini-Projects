@@ -17,7 +17,7 @@
 ## Compile
 
 ```bash
-javac StudentGradeCalculator.java
+java StudentGradeCalculator.java
 ```
 
 ## Run
