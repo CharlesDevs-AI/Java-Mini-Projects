@@ -1,9 +1,14 @@
+# Compiled Java files
 *.class
 
-out/
+# Build folders
 bin/
+out/
+target/
 
-.idea/
+# IDE files
 .vscode/
+.idea/
 
+# Logs
 *.log
